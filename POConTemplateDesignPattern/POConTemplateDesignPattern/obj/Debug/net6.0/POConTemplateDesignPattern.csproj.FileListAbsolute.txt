@@ -1,0 +1,15 @@
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\bin\Debug\net6.0\POConTemplateDesignPattern.exe
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\bin\Debug\net6.0\POConTemplateDesignPattern.deps.json
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\bin\Debug\net6.0\POConTemplateDesignPattern.runtimeconfig.json
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\bin\Debug\net6.0\POConTemplateDesignPattern.dll
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\bin\Debug\net6.0\POConTemplateDesignPattern.pdb
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.csproj.AssemblyReference.cache
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.AssemblyInfoInputs.cache
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.AssemblyInfo.cs
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.csproj.CoreCompileInputs.cache
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.dll
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\refint\POConTemplateDesignPattern.dll
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.pdb
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\POConTemplateDesignPattern.genruntimeconfig.cache
+D:\MonoDotNet03\session30\POConTemplateDesignPattern\POConTemplateDesignPattern\obj\Debug\net6.0\ref\POConTemplateDesignPattern.dll

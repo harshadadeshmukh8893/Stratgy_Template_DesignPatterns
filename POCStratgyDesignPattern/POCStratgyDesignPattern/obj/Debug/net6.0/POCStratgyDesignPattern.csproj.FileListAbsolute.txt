@@ -1,0 +1,15 @@
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\bin\Debug\net6.0\POCStratgyDesignPattern.exe
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\bin\Debug\net6.0\POCStratgyDesignPattern.deps.json
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\bin\Debug\net6.0\POCStratgyDesignPattern.runtimeconfig.json
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\bin\Debug\net6.0\POCStratgyDesignPattern.dll
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\bin\Debug\net6.0\POCStratgyDesignPattern.pdb
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.csproj.AssemblyReference.cache
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.AssemblyInfoInputs.cache
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.AssemblyInfo.cs
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.csproj.CoreCompileInputs.cache
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.dll
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\refint\POCStratgyDesignPattern.dll
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.pdb
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\POCStratgyDesignPattern.genruntimeconfig.cache
+D:\MonoDotNet03\session27\POCStratgyDesignPattern\POCStratgyDesignPattern\obj\Debug\net6.0\ref\POCStratgyDesignPattern.dll
